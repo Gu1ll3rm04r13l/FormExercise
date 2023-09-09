@@ -1,5 +1,3 @@
-import React from 'react'
-
 function MostrarEvento ({ nombre, edad, pokemonFavorito }) {
     return (
         <div>
